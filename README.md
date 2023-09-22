@@ -1,6 +1,6 @@
 # GPGS
 Посилання [клік](https://play.google.com/store/apps/details?id=com.simplegames.gpgs).  
-GPGS test
+GPGS test, успішна спроба інтегрувати аутентифікацію GPGS.
 
 У "грі" застосовуєтсья:
 * GPGS authentication;
